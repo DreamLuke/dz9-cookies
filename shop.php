@@ -18,7 +18,7 @@
     <div>
         <label for="product2">Товар 2</label>
         <div style="width: 50px; height: 50px; background-color: green"></div>
-        <div>Цена: 1 марсианский фунт</div>
+        <div>Цена: 2 марсианских фунта</div>
     </div>
     <!-- <a href="./basket.php?id=2">Положить в корзину</a> -->
     <a href= 'basket.php?id=2'>Положить в корзину</a>
@@ -27,7 +27,7 @@
     <div>
         <label for="product3">Товар 3</label>
         <div style="width: 50px; height: 50px; background-color: blue"></div>
-        <div>Цена: 1 марсианский фунт</div>
+        <div>Цена: 3 марсианских фунта</div>
     </div>
     <a href= 'basket.php?id=3'>Положить в корзину</a>
     <br>
@@ -35,7 +35,7 @@
     <div>
         <label for="product4">Товар 4</label>
         <div style="width: 50px; height: 50px; background-color: yellow"></div>
-        <div>Цена: 1 марсианский фунт</div>
+        <div>Цена: 4 марсианских фунта</div>
     </div>
     <a href= 'basket.php?id=4'>Положить в корзину</a>
     <br>
@@ -43,7 +43,7 @@
     <div>
         <label for="product5">Товар 5</label>
         <div style="width: 50px; height: 50px; background-color: black"></div>
-        <div>Цена: 1 марсианский фунт</div>
+        <div>Цена: 5 марсианских фунтов</div>
     </div>
     <a href= 'basket.php?id=5'>Положить в корзину</a>
     <br>
